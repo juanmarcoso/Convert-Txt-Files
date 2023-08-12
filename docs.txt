@@ -1,0 +1,7 @@
+Este es un codigo para poder convertir web en archivos TXT. 
+
+This is a code to convert webs into TXT files. Enjoy it!
+
+Resources/Recursos:
+
+pip install beautifulsoup4 requests
